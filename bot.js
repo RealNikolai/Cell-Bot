@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'I love erg') {
-    	message.reply('loves @ERG#1993');
+    	message.reply('loves <@230421766395133954>');
   	}
 });
 
