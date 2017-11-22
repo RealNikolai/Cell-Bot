@@ -1,2 +1,2 @@
-# Cell-Bot
-Bot made for Notorius Cellcraft
+# super-super-heroku-bot
+Bot using heroku, 24/7!
